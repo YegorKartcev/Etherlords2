@@ -1,3 +1,7 @@
+
+https://yegorkartcev.github.io/etherlords2/
+
+
 # frontend
 
 ## Project setup
